@@ -12,6 +12,10 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Drop the unwanted values,Check for NULL values, Duplicate values. &emsp;&emsp;&emsp; 
 3. Classify the training data and the test data. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
 4. Calculate the accuracy score, confusion matrix and classification report.
+
+
+
+
 ### Program:
 ```Python
 import pandas as pd
